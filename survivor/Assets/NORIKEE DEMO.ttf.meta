@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eee0adb14b7d1b04c85eb397d29c39a0
+timeCreated: 1531293784
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NORIKEE DEMO
+  fontNames:
+  - NORIKEE DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
